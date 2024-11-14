@@ -4,6 +4,8 @@ This repo is to demonstrate Next.js, Solana, and Anchor skills by building a sim
 
 Working version is available here: [step staking](https://step-staking-pink.vercel.app "step staking")
 
+Original version is here: [step finance app](https://app.step.finance/en/stake "step finance")
+
 ## Preview
 
 ![image](https://github.com/user-attachments/assets/997c3e83-ba32-4082-8a3b-0cfe724e465e)
