@@ -2,7 +2,7 @@
 
 This repo is to demonstrate Next.js, Solana, and Anchor skills by building a similar UI to the Step Finance V2 staking page.
 
-Working version is available here: [step staking](https://step-staking-luckygrus-projects.vercel.app "step staking")
+Working version is available here: [step staking](https://step-staking-pink.vercel.app "step staking")
 
 ## Preview
 
